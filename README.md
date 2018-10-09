@@ -15,3 +15,8 @@ EXECUTE [dbo].[BinaryClockSQL] @binaryCalc = 1 -- Shows Clock with default Unico
 to switch unicode char to display run:
 
 EXECUTE [dbo].[BinaryClockSQL] @unicodeCharStyle = 1 -- Replace the int value with required value
+
+Still WIP - additions to be done
+Help - create help section for the SP
+Pivot - ability to Pivot the columns which displays Binary values
+UnicodeChar - Add larger collection of unicode characters
